@@ -18,3 +18,6 @@ Learn Git basics and GitHub workflow.
 ## Author
 
 Sathvika
+## Learning Outcome
+
+Successfully completed Git fundamentals.
